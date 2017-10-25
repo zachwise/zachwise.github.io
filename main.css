@@ -1,0 +1,42 @@
+h1 {
+    color: #AA3939;
+    font-weight:900;
+    font-family: 'Merriweather', serif;
+}
+
+/*h1 {
+    color: #AA3939;
+    font-weight:900;
+}
+
+body {
+    font-size: 22px;
+    line-height: 34px;
+    color: #666;
+    font-family: 'Merriweather', serif;
+}
+
+article, header {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+figcaption {
+    font-family:sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    color: #999999;
+}
+
+figcaption.credit {
+    text-align: right;
+}
+
+figure img {
+    width:100%;
+}*/

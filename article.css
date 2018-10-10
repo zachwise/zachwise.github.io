@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+    font-size: 48px;
+}
+
+body {
+    font-size: 18px;
+    /* font-family: 'Faster One', cursive; */
+}
+
+article {
+    padding: 10px 60px;
+}
+
+img {
+    max-width: 100%;
+}
+
+figure {
+    margin:50px 0;
+}
+
+figcaption, .byline, .dateline {
+    font-size:12px;
+    font-family: "Helvetica Nue", "Helvetica";
+}
+
+.dateline {
+    margin-bottom:50px;
+    color: #999;
+}
